@@ -20,7 +20,7 @@
 ### 🧰 Tech Stack:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,react,flutter,python,mysql,js,html,css,bootstrap,tailwind,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,react,flutter,python,mysql,js,html,css,bootstrap,tailwind,git,github,figma,vscode" />
 </p>
 
 ---
